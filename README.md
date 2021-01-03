@@ -7,7 +7,7 @@ Works like a hangman.
 * [Setup](#setup)
 * [Screenshot](#screenshot)
 ## General info
-This project is simple a simple game.
+This project is a simple game.
 ## Technologies
 Project is created with:
 * Android Studio 4.1.1
